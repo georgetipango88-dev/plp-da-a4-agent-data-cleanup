@@ -1,0 +1,18 @@
+# Raw generated datasets
+agent_transactions_raw.csv
+agents_raw.csv
+data/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
